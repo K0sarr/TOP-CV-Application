@@ -1,0 +1,92 @@
+#form2 {
+    width: 100%;
+    max-width: 300px;
+    max-height: 450px;
+    margin: 10px; /* Add some margin */
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    position: fixed;
+    top: 390px;
+    left: 20px;
+  }
+  
+  #form2 form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  #form2 label {
+    margin-bottom: 10px;
+  }
+  
+  #form2 input {
+    width: 86%;
+    padding: 8px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  #form2 button {
+    padding: 10px 20px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+  }
+  
+  #form2 button[type="submit"] {
+    
+    background-color: #020202;
+    color: #fff;
+  }
+  
+  #form2 button[type="reset"] {
+    background-color: #6d6c75;
+    color: #fff;
+  }
+  
+  #form2 button:hover {
+    opacity: 0.8;
+  }
+  
+
+  #general2 {
+    font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    width: 600px;
+    color-scheme: light dark;
+    color: rgba(36, 29, 29, 0.87);
+    position: fixed; /* Position the element */
+    top: 330px; /* Adjust the distance from the top */
+    right: 508px; /* Adjust the distance from the right */
+    /* border: 1px solid #d49595;
+    border-radius: 5px; */
+    z-index: 2; /* Set a higher z-index value */
+  }
+
+/* Date adjustments */
+  #contact4 {
+    position: fixed;
+    top: 430px;
+    right: 800px;
+  }
+
+  #contact5 {
+    position: fixed;
+    top: 430px;
+    right: 769px;
+  }
+
+  #hrTag2 {
+    height: 3px;
+    background-color: #000000;
+    border: none;
+    width: 600px;
+    position: fixed; /* Position the element */
+    top: 500px; /* Adjust the distance from the top */
+    right: 230px; /* Adjust the distance from the right */
+    z-index: 2; /* Set a higher z-index value */
+  }
