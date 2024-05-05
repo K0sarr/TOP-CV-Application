@@ -38,6 +38,7 @@ export default function BaseForm() {
     return (
         <>
         <div id='form'>
+        <h4>General</h4>
             <form method="post" onSubmit={handleSubmit} onReset={handleReset}>
                 <label id="label">
                     Name: <input name="name" placeholder=''/>
