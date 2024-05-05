@@ -1,7 +1,11 @@
 
+
  
 ## Overview
 The **CV Application generator** is a web application designed to help users create professional-looking resumes or CVs. This project is built with Vite and React to ensure a fast and efficient development experience. The application is hosted on Netlify, allowing for seamless deployment and a reliable hosting environment.
+
+## TOP-Project
+This project is part of The Odin Project; React course. Created only for learning react basics during course.
 
 
 ## Technologies Used
